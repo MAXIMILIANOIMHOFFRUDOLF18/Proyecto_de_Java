@@ -28,7 +28,7 @@ El código se organiza de la siguiente manera:
 ## 🚀 Instalación y Ejecución
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/usuario/Proyecto_de_Java.git
+   git clone [https://github.com/usuario/Proyecto_de_Java.git](https://github.com/MAXIMILIANOIMHOFFRUDOLF18/Proyecto_de_Java.git)
    ```
 2. Accede al directorio del proyecto:
    ```sh
